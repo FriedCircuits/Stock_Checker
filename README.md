@@ -1,15 +1,15 @@
 Stock Checker
 =============================
 
-This is a python script that checks Adafruit for stock status. 
+There are two python scripts that checks Adafruit and Sparkfun products for stock status. 
 It can handle multiple products and will email if there is a change and how many within the set time.
 The first run it sends an email with all items in the list and their current status. 
 Handles unknown stock and out of stock status as well.
 This could be a good starting point to be modifed for any online shop. 
 
 
-This is great to track your favorite items that you would like to buy soon or if you have your items in the Adafruit shop. 
-Also great if you are courios about how popular an item is. Could be extended with data over time and graphs of how fast an item moves.
+This is great to track your favorite items that you would like to buy soon or if you have your items in the Adafruit or Sparkfun shop. 
+Also great if you are curious about how popular an item is. Could be extended with data over time and graphs of how fast an item moves.
 
 This was developed and tested using a Raspberry Pi Model B 256MB.
 
@@ -44,7 +44,7 @@ _SMTP_PORT = 587_
 
 ____
 
-Also you need the BeautifulSoup4 libraray.
+Also you need the BeautifulSoup4 libraray for the Adafruit stock checker.
 
 More info: [http://www.crummy.com/software/BeautifulSoup/](http://www.crummy.com/software/BeautifulSoup/)
 
