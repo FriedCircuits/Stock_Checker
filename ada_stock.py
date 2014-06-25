@@ -1,6 +1,6 @@
 #! /usr/bin/python
 #By William Garrido (FriedCircuits.us)
-#Created 09-21-2013
+#Uploaded 09-21-2013
 #Licensed as CC-BY-SA
 #https://github.com/FriedCircuits/Stock_Checker
 
